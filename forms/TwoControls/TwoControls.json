@@ -14,18 +14,45 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "TwoControls", 
         "Elements", 
-        "inptFirstName.json"
+        "Rating1.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "TwoControls", 
         "Elements", 
-        "BtnSubmit.json"
+        "Label2.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "TwoControls", 
+        "Elements", 
+        "Feedback.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "TwoControls", 
+        "Elements", 
+        "btnFeedback.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "TwoControls", 
+        "Elements", 
+        "Label3.json"
       ]
     }
   ], 
@@ -35,7 +62,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "membership", 
+  "id": "TwoControls", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
